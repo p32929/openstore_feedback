@@ -1,0 +1,36 @@
+name: 🚩 Report an app
+description: An app listing is broken, misleading, harmful, spam, or listed by someone who didn't make it.
+labels: [app-report]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Is this your own app?** You don't need to report it: change its file in your listing repo and push. The store updates within the hour.
+  - type: input
+    id: app
+    attributes:
+      label: App
+      description: The link of the app's page on OpenStore.
+      placeholder: https://openstore.pfay.workers.dev/app/…
+    validations:
+      required: true
+  - type: dropdown
+    id: reason
+    attributes:
+      label: What's wrong?
+      options:
+        - The download or link doesn't work
+        - Wrong or misleading information
+        - Malware or harmful
+        - Listed by someone who didn't make it
+        - Spam or inappropriate
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: What did you find? Links or screenshots help.
+    validations:
+      required: true

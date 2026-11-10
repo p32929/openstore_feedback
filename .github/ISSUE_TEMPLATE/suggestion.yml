@@ -1,0 +1,21 @@
+name: 💡 Suggestion
+description: An idea for a new feature or an improvement.
+labels: [enhancement]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: Your idea
+      description: What would you like OpenStore to do?
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why?
+      description: What problem does it solve, or who would it help?
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Anything else?
+      description: Other ways to solve it, examples from elsewhere, sketches.

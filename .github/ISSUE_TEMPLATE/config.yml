@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Questions and general chat
+    url: https://github.com/p32929/openstore_feedback/discussions
+    about: Ask a question, share what you built, or talk about OpenStore.
+  - name: ➕ List your apps on OpenStore
+    url: https://openstore.pfay.workers.dev/add
+    about: Step-by-step guide to adding your apps.
+  - name: ✅ Check your listing repo
+    url: https://openstore.pfay.workers.dev/validate
+    about: Finds every problem in your files, with line numbers.
+  - name: 🔒 Report a security problem
+    url: https://github.com/p32929/openstore_feedback/security/advisories/new
+    about: Report it privately, not in a public issue.
