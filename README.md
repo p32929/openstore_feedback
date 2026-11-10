@@ -18,7 +18,7 @@ Before opening an issue, please search the [existing ones](https://github.com/p3
 
 - **Add your apps:** follow the steps at [openstore.pfay.workers.dev/add](https://openstore.pfay.workers.dev/add).
 - **Your listing has errors?** Run `node validate.mjs` in your repo, or check it at [openstore.pfay.workers.dev/validate](https://openstore.pfay.workers.dev/validate). Every message says which file and line to fix.
-- **Something wrong with your app's page?** You can fix it yourself: change the app's file in your repo and push. The store picks it up within the hour.
+- **Something wrong with your app's page?** You can fix it yourself: change the app's file in your repo and push. The store picks it up within a day.
 - **Stuck?** Ask in [Discussions → Q&A](https://github.com/p32929/openstore_feedback/discussions/categories/q-a).
 
 ## Related

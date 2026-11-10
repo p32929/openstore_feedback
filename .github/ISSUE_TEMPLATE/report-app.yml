@@ -5,7 +5,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        **Is this your own app?** You don't need to report it: change its file in your listing repo and push. The store updates within the hour.
+        **Is this your own app?** You don't need to report it: change its file in your listing repo and push. The store updates once a day.
   - type: input
     id: app
     attributes:
