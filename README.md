@@ -47,6 +47,10 @@ Full guide: [openstore.pfay.workers.dev/add](https://openstore.pfay.workers.dev/
 
 Be kind. Apps on OpenStore are made by individuals, often in their spare time.
 
+## Contributing
+
+Contributions are very welcome. Please open an issue first to talk about what you'd like to add or change, so we can agree on it before you spend time on a pull request. Thank you!
+
 ## Share
 
 <a href="https://p32929.github.io/share/?repo=openstore_feedback"><img src="https://p32929.github.io/readme/share.svg" alt="Share this with your friends in just a click" width="420"></a>
