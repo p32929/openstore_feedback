@@ -35,14 +35,22 @@ It takes four steps, and you only need Node.js:
 
 Full guide: [openstore.pfay.workers.dev/add](https://openstore.pfay.workers.dev/add).
 
-- **Your listing has errors?** Every message says which file and line to fix.
-- **Something wrong with your app's page?** Change the app's file in your repo and push. The store picks it up within a day.
-- **Stuck?** Ask in [Discussions → Q&A](https://github.com/p32929/openstore_feedback/discussions/categories/q-a).
+1. **Your listing has errors?** Every message says which file and line to fix.
+2. **Something wrong with your app's page?** Change the app's file in your repo and push. The store picks it up within a day.
+3. **Stuck?** Ask in [Discussions → Q&A](https://github.com/p32929/openstore_feedback/discussions/categories/q-a).
 
 ## Related
 
-- [openstore_maintainers](https://github.com/p32929/openstore_maintainers): the list of developers on OpenStore
-- [Listing template](https://github.com/p32929/p32929_openstore/tree/template): the starter repo
-- [Why OpenStore](https://openstore.pfay.workers.dev/why)
+1. [openstore_maintainers](https://github.com/p32929/openstore_maintainers): the list of developers on OpenStore
+2. [Listing template](https://github.com/p32929/p32929_openstore/tree/template): the starter repo
+3. [Why OpenStore](https://openstore.pfay.workers.dev/why)
 
 Be kind. Apps on OpenStore are made by individuals, often in their spare time.
+
+## Share
+
+<a href="https://p32929.github.io/share/?repo=openstore_feedback"><img src="https://p32929.github.io/readme/share.svg" alt="Share this with your friends in just a click" width="420"></a>
+
+## Support
+
+<a href="https://p32929.github.io/support/"><img src="https://p32929.github.io/readme/support.svg" alt="If you like my works and want to support me, feel free to support" width="420"></a>
